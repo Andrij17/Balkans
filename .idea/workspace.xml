@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="d36343c4-70b8-43a7-a1e0-ebd864d9ba33" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/core/src/gdx/menu/GamMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/gdx/menu/GamMenu.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="d36343c4-70b8-43a7-a1e0-ebd864d9ba33" name="Default" comment="" />
+>>>>>>> Stashed changes
 =======
     <list default="true" id="d36343c4-70b8-43a7-a1e0-ebd864d9ba33" name="Default" comment="" />
 >>>>>>> Stashed changes
