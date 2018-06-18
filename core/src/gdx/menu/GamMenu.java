@@ -22,7 +22,7 @@ public class GamMenu extends Game {
     
     public void updateState(int _nScreen) {
         nScreen = _nScreen;
-        if ( nScreen == 0) {
+        if (nScreen == 0) {
             setScreen(scrMenu);
         } else if (nScreen == 1) {
             setScreen(scrPlay);
